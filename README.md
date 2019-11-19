@@ -7,10 +7,6 @@ Je krijgt ditmaal een RootFolder aangeleverd, maar de CSS ontbreekt. De bedoelin
 ![Einduitwerking](img/GaudiView1.png)
 
 
-1. Maak een Fork van deze repo naar je eigen repository.
-2. Clone de opdracht naar je PC
-3. Werk de opdracht uit en push regelmatig naar je eigen repo
-
 
 > ## Tips
 > - Gebruikt lettertype : georgia
